@@ -6,3 +6,6 @@ This Python program takes marks of three subjects and total marks as input, then
 
 # Spam_Message
 This Python program checks whether the input text contains common spam phrases like “Make a lot of money”, “buy now”, “subscribe this”, or “click this”. If any of these phrases are found in the user’s input, it classifies the message as spam. Otherwise, it prints that the message is not spam.
+
+# Check_length
+This code checks the length of a username entered by the user. If it has fewer than 10 characters, it shows a message that the username is too short; otherwise, it says the username meets the length requirement.
