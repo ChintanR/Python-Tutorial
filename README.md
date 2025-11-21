@@ -9,3 +9,6 @@ This Python program checks whether the input text contains common spam phrases l
 
 # Check_length
 This code checks the length of a username entered by the user. If it has fewer than 10 characters, it shows a message that the username is too short; otherwise, it says the username meets the length requirement.
+
+# Check_Presence
+This program takes a name as input and checks whether that name exists in a predefined list. If the name is found in the list, it displays a message saying the name is present; otherwise, it shows that the name is not present.
