@@ -12,3 +12,6 @@ This code checks the length of a username entered by the user. If it has fewer t
 
 # Check_Presence
 This program takes a name as input and checks whether that name exists in a predefined list. If the name is found in the list, it displays a message saying the name is present; otherwise, it shows that the name is not present.
+
+# Grade_calculator
+This program takes the user’s marks as input and checks which range the marks fall into. Based on that, it displays the corresponding grade from ‘Ex’ to ‘F’ using conditional statements (if-elif-else).
