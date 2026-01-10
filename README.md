@@ -11,9 +11,8 @@ It contains simple examples and practice exercises to understand core Python con
 Functions and recursion
 Conditional statements
 Loops and patterns
-Basic mathematical problems
-List and string operations
-Input and output handling
+File Handling
+OOP in Python
 **Each program is written in an easy-to-understand way, making it useful for beginners and students.**
 
 # Purpose
